@@ -1,5 +1,5 @@
 # Pewlett-Hackard-Analysis
-## Overview of the analysis: 
+## Overview of the analysis
 ### Purpose
 
 ## Results: 
